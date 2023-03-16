@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @DavidMoralesDeveloper
-- 👀 I’m interested in become a FullStack Developer
-- 🌱 I’m currently learning Front End And Back End
-- 💞️ I’m looking to collaborate on New proyects
+- <h1> 👋 Soy un Programador FullStack orientado al diseño Front End</h1>
+- 
+<p> 
+Como desarrollador Full-Stack aporto una gran experiencia en HTML, CSS, JavaScript, React, Node.js, PostgreSQL , GIT y más. Mi vision es segurie aprendiendo , estar al tanto de las ultimas tecnologias y actualizarme .
+ Practicando y creando pequeños proyectos he ganado experiencia , me gusta pasar tiempo buscando soluciones y sentir ese buen sentir al ver que funciona muy bien la pagina .
+  
+ 
+  
+</p>
 - 📫 How to reach me LinkedIn https://www.linkedin.com/in/david-morales-developer/ Gmail david.morales.developer.01@gmail.com
 
 <h3 align="center">Languages and Tools:</h3>
